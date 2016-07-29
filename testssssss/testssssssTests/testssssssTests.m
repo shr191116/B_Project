@@ -1,6 +1,6 @@
 //
-//  dfgdfgdfgTests.m
-//  dfgdfgdfgTests
+//  testssssssTests.m
+//  testssssssTests
 //
 //  Created by 舒志凌 on 16/7/29.
 //  Copyright © 2016年 Winner. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface dfgdfgdfgTests : XCTestCase
+@interface testssssssTests : XCTestCase
 
 @end
 
-@implementation dfgdfgdfgTests
+@implementation testssssssTests
 
 - (void)setUp {
     [super setUp];
